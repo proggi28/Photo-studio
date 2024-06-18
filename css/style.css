@@ -247,7 +247,7 @@ input[type="text"] {
 
 .background {
   margin-top: 70px;
-  background: url("/images/background.png");
+  background: url("../images/background.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
